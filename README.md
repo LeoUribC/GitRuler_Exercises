@@ -1,2 +1,3 @@
-# GitRuler_Exercises
-This is a repository made for complete the git exercises with gitruler tool
+# GitRuler Exercises
+
+A GitHub repository made for practicing purposes! We will practice some `git` commands following the given instruction in each exercise.
