@@ -1,7 +1,3 @@
 Billy Smith
-<<<<<<< HEAD
 Sarah Jones
 Sunny Rosario
-=======
-Sarah Jones
->>>>>>> main
